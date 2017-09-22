@@ -25,3 +25,4 @@ done
 echo ""
 done
 echo -e "\nAin't this beautiful?!"
+echo -e "\nHello from Jenkins. Update for new commit."
